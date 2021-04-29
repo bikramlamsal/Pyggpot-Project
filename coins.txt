@@ -1,1 +1,1 @@
-The pigy pot should be implementing an order/unordered data structures to map the coins present in it,then it becomes easy to add or remove coin from piggypot
+The piggy pot should be implementing an order/unordered data structures to map the coins present in it, then it becomes easy to add or remove coin from piggypot.
